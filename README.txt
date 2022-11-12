@@ -1,5 +1,4 @@
-Aluno: Johnny Roberto Rodrigues Machado
-Matricula: 201901167518
+Johnny Roberto Rodrigues Machado
 
 Banco de Dados NoSQL.
 
